@@ -33,9 +33,9 @@ $my_user_id = 0123456789;
 $auth_key = '<randomly generated key>';
 
 
-$start_text = "Thanks for subscribing!";
+$start_text = ":D";
 $stop_text = "Ok, you stopped the subscription.";
-$contact_text = "You can contact me via Telegram: @schmidtflo";
+$contact_text = "Taylor Bot Api Team";
 $help_text = "Use /start or /stop";
 $latest_article_text = "Latest article: ";
 $new_article_text = "New article: ";
