@@ -1,7 +1,7 @@
 <?php
 /* Configuration */
 
-// Your Telegram-API-Key
+// Your Telegram-API-Key توکن
 $api_key = '<your api key>';
 
 // import.io Key
@@ -15,8 +15,8 @@ $memcached_host = '/home/user/memcached.socket';
 $memcached_port = 0; // 0 if you use sockets, normally 11211 if you access it via port
 
 
-// Your database
-$db_host = 'mysql:host=localhost;dbname=telegram_bot';
+// Your database دیتا بیس
+$db_host = 'localhost';
 $db_table = 'bot';
 $db_user = 'username';
 $db_pw = 'password';
@@ -26,7 +26,7 @@ $logging = true;
 
 
 // Your telegram user_id (you can get it with logging)
-$my_user_id = 0123456789;
+$my_user_id = 68747297;
 
 
 // personal authentification key. Randomly created by you.
